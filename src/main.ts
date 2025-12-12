@@ -1,1 +1,2 @@
-import './01-basics/index'
+// import './01-basics/index'
+import './WorkShop/generics_01'

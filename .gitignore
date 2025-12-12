@@ -6,6 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 dist/
 build/
+html_catalog_website/
 
 # TypeScript
 *.tsbuildinfo
